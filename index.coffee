@@ -25,6 +25,7 @@ splitItem = (item) =>
   <a href="https://twitter.com/doctorow">Twitter</a>
   <a href="https://mostlysignssomeportents.tumblr.com/tagged/pluralistic">Tumblr</a>
   <a href="https://3bahu8v3r3.execute-api.us-east-1.amazonaws.com/default/pluralisticBiteSized">Pluralistic Bite Sized (this version)</a>
+  <a href="https://github.com/mikeymckay/feed-rewriter">Source code for generating bite sized version</a>
 </small>
       '
       feed.addItem getItem(contentItem)
